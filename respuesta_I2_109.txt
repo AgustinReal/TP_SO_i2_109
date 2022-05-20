@@ -1,3 +1,14 @@
 ALFA: Sanchez De Bustamante Tomas
 BETA: Agnoli Luca Nahuel
 GAMMA: Real Agustin Enrique
+
+Cuestionario 2:
+
+A-¿Como actualizo mi repositorio, al estado que esté el repo que hice FORK?
+Lo actualizamos usando boton "fetch upstream" y pulsando el fetch and merge (los usuarios Alfa y Gamma).
+B-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
+Alfa no puede actualizar el estado de Gamma ya que Gamma y Alfa realizaron un fork de Beta, ellos no van estar vinculados.  
+
+
+
+
